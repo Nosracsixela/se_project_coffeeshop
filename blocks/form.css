@@ -58,7 +58,7 @@
   width: 20px;
   height: 20px;
   accent-color: #1878dc;
-  background-image: url(../images/check.svg
+  background-image: url(../images/check.svg);
 }
 
 .form__label_type_checkbox {
